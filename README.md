@@ -1,4 +1,4 @@
-# upload-bypass
+# Fileupload-bypass
 
 Creates a wordlist of filenames for testing file-upload security. Upload forms often block code files (like `.php`) and only allow safe ones (like `.jpg`). This tool generates the common tricks for slipping a code file past that filter — combining the two extensions and inserting special characters in different spots. Just pick the backend language and it fills in the right code extensions to try.
 
